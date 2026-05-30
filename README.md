@@ -1,4 +1,4 @@
-# 🚀 Space Shooter – Final Version 
+# 🚀 Space Shooter
 
 ### Fast Gameplay • Bigger Bullets • Auto Speed Increase • 5 Lives System
 
