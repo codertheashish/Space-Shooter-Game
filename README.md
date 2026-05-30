@@ -1,4 +1,4 @@
-# 🚀 Space Shooter – Final Version (Python + Pygame)
+# 🚀 Space Shooter – Final Version 
 
 ### Fast Gameplay • Bigger Bullets • Auto Speed Increase • 5 Lives System
 
