@@ -59,7 +59,7 @@ pip install pygame
 ### 2️⃣ Clone the Repository
 
 ```bash
-https://github.com/codertheashish/Space_shooter_game.git
+https://github.com/codertheashish/Space-Shooter-Game
 ```
 
 ### 3️⃣ Run the Game
